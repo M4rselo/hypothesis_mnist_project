@@ -27,7 +27,7 @@ The project emphasizes experimentation and interpretation over blindly improving
 - **Linear Classifier** — establishes a baseline and highlights the limitations of the linear model
 - **MLP (Non-regularized)** — demonstrates how additional capacity improves performance but increases overfitting risk  
 - **Regularized MLP** — uses dropout to stabilize training and improve generalization  
-- **Others** - all of the models implemented duting this project
+- **Others** - all of the models implemented during this project
 ---
 
 ## Key Observations
